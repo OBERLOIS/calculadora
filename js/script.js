@@ -28,7 +28,7 @@ pantalla.value=eval(pantalla.value);
 
 catch{
 
-pantalla.value="Error";
+pantalla.value="Errorrr";
 
 }
 
